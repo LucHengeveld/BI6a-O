@@ -7,7 +7,6 @@
  */
 
 // Alles importeren:
-
 import javax.swing.*;
 import javax.swing.filechooser.FileSystemView;
 import java.io.*;
